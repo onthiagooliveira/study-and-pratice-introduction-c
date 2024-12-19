@@ -54,7 +54,7 @@ int main () {
      * inesperado.
      * 
      * *Existem duas formas de evitar que isso aconteça:
-     *  - A primeira é que, dentro do scanf, antes do símbolo de formato de letirua, coloquemos um espaço na string...
+     *  - A primeira é que, dentro do scanf, antes do símbolo de formato de LEITURA, coloquemos um espaço na string...
      * scanf(" %c", &ch2), isso fará com que sejam ignorados caracteres especiais, como o enter.
      * 
      * Após a primeira chamada da função scanf(), efetue a limpeza do buffer do teclado com a seguinte isntrução:
