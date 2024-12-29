@@ -85,5 +85,14 @@ int main() {
 
     printf("\nMaior salário reajustado: %.2lf\n", highest_salary);   
     return 0;
+
+    /**
+     * * Exercício 4:
+     * Ler um número N, que indica a quantidade de números inteiros que serão fornecidos em seguida.
+     * Ler uma lista de N números inteiros (ou seja, o programa deve receber exatamente N números após o primeiro número).
+     * Calcular a soma dos números pares e a soma dos números ímpares na lista de números que você leu.
+     * Mostrar na tela a soma dos números pares e a soma dos números ímpares separadamente.
+     * 
+     */
     
 }
